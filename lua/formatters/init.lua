@@ -6,6 +6,7 @@ formatters.setup {
   {
     exe = "prettier",
     filetypes = {
+      "css",
       "javascriptreact",
       "javascript",
       "typescriptreact",
